@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/qv-logo.png" width="100" alt="Quantum Vector Logo"/>
+<img src="https://quantumvector.sh/_next/image?url=%2FLogo%2FLOGO_ICON_PNG_FORMAT.png&w=256&q=75" width="100" alt="Quantum Vector Logo"/>
+
+# 🤖 AI & LLM Engineering Bootcamp
+
+### From Zero → Production-Ready AI Engineer
 
 # 🤖 AI & LLM Engineering Bootcamp
 
@@ -246,7 +250,7 @@ from a blank terminal to production.
 
 | Resource | Link |
 |----------|------|
-| 🌐 Course Page | [quantumvector.sh/courses/ai-llm-bootcamp](https://quantumvector.sh/courses/ai-llm-bootcamp) |
+| 🌐 Course Page | [quantumvector.sh/courses/ai-llm-bootcamp](https://quantumvector.sh/courses) |
 | 📸 Instagram | [@devops__community](https://www.instagram.com/devops__community/) |
 | 📧 Email | [frontdesk@thedevopscommunity.com](mailto:frontdesk@thedevopscommunity.com) |
 | 📍 Location | Hyderabad, Telangana, India |
