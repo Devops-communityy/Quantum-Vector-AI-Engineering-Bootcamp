@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://quantumvector.sh/_next/image?url=%2FLogo%2FLOGO_ICON_PNG_FORMAT.png&w=256&q=75" width="100" alt="Quantum Vector Logo"/>
+<img src="./assets/qv-logo.png" width="100" alt="Quantum Vector Logo"/>
 
 # 🤖 AI & LLM Engineering Bootcamp
 
@@ -11,7 +11,7 @@
 [![Duration](https://img.shields.io/badge/Duration-45%20Days-EF9F27?style=for-the-badge)](https://quantumvector.sh)
 [![Projects](https://img.shields.io/badge/Projects-8%20Real%20Builds-D85A30?style=for-the-badge)](https://quantumvector.sh)
 
-> Learn Python, Git, Docker, Pydantic, LLMs, Agents, RAG, LangChain, LangGraph, Voice AI, and MCP — all in one place.
+> Learn Python, Git, Docker, Pydantic, LLMs, Agents, RAG, LangChain, LangGraph, Voice AI, and MCP - all in one place.
 
 [🌐 Course Page](https://quantumvector.sh/courses/ai-llm-bootcamp) • [📸 Instagram](https://www.instagram.com/devops__community/) • [📧 Contact](mailto:frontdesk@thedevopscommunity.com)
 
@@ -19,21 +19,50 @@
 
 ---
 
+## 👋 Who We Are
+
+We are a group of **10 active DevOps & AI Engineers** working at multinational
+companies - doing real 9-to-6 engineering jobs by day, and teaching technology
+with everything we have in the time that remains.
+
+We are not full-time educators. We are **practitioners first, teachers second.**
+
+Every one of us is currently working in the industry - shipping code, managing
+infrastructure, building AI pipelines, and solving the same problems your future
+employers will ask you to solve. We bring that lived experience directly into
+every session.
+
+### What Makes Us Different
+
+| | |
+|---|---|
+| 🏭 **Industry-Active** | We work at MNCs daily - our content reflects what's actually happening in the market right now |
+| 🔨 **Project-Driven** | Every concept we teach comes with a real implementation, not a toy example |
+| 📡 **Market-Aligned** | We update the curriculum as the industry evolves - no stale content |
+| ❤️ **Passionate** | We do this because we love building and we love teaching - not for a paycheck |
+| 🤝 **Community-First** | We built Quantum Vector so engineers could learn from engineers |
+
+> *"We don't teach what's in textbooks. We teach what we use at work."*
+
+---
+
 ## 📌 What This Course Is
 
 > **This is not a theory course. Every concept is immediately applied in code.**
 
-By the end, you will build, deploy, and scale real-world AI applications using the same techniques that power **ChatGPT**, **Gemini**, and **Claude** — from a blank terminal to production.
+By the end, you will build, deploy, and scale real-world AI applications using
+the same techniques that power **ChatGPT**, **Gemini**, and **Claude** -
+from a blank terminal to production.
 
 ---
 
 ## 🗺️ Course Curriculum
 
-### 📦 Part 1 — Foundations
+### 📦 Part 1 - Foundations
 > *Build the engineering base every AI developer needs.*
 
 | Topic | What You Learn |
-|-------|---------------|
+|-------|----------------|
 | 🐍 Python | Syntax, data types, OOP, and advanced features |
 | 🌿 Git & GitHub | Branching, merging, collaboration, professional workflows |
 | 🐳 Docker | Containerization, images, volumes, deploying applications |
@@ -41,27 +70,27 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 
 ---
 
-### 🧠 Part 2 — AI & LLM Fundamentals
+### 🧠 Part 2 - AI & LLM Fundamentals
 > *Understand how LLMs actually work under the hood.*
 
 - What are LLMs and how GPT predicts the next token
 - Tokenization, embeddings, and the attention mechanism explained simply
 - Multi-head attention, positional encodings, and the *"Attention is All You Need"* paper
-- Base models vs instruction-tuned models — when to use each
+- Base models vs instruction-tuned models - when to use each
 
 ---
 
-### 🎯 Part 3 — Prompt Engineering
+### 🎯 Part 3 - Prompt Engineering
 > *The craft of communicating with AI models.*
 
 - Core strategies: zero-shot, one-shot, few-shot, chain-of-thought, persona-based
 - Prompt formats: Alpaca, ChatML, LLaMA-2
 - Designing prompts for structured JSON outputs with Pydantic
-- Prompt anti-patterns that cause hallucinations — and how to fix them
+- Prompt anti-patterns that cause hallucinations - and how to fix them
 
 ---
 
-### ⚡ Part 4 — Running & Using LLMs
+### ⚡ Part 4 - Running & Using LLMs
 > *Connect to cloud APIs and run models locally.*
 
 - OpenAI & Gemini API setup and integration with Python
@@ -71,10 +100,10 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 
 ---
 
-### 🤖 Part 5 — Agents & RAG Systems
+### 🤖 Part 5 - Agents & RAG Systems
 > *Build AI that retrieves knowledge and takes action.*
 
-- Build your first AI Agent from scratch — the ReAct loop
+- Build your first AI Agent from scratch - the ReAct loop
 - CLI-based coding agents with Claude
 - The complete RAG pipeline: `indexing → retrieval → answering`
 - **LangChain**: document loaders, splitters, retrievers, and vector stores
@@ -83,18 +112,18 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 
 ---
 
-### 🧩 Part 6 — LangGraph & Memory
+### 🧩 Part 6 - LangGraph & Memory
 > *Give your agents state, persistence, and long-term memory.*
 
 - LangGraph fundamentals: state, nodes, edges, and graph-based AI workflows
-- Checkpointing with **MongoDB** — resume agents across sessions
+- Checkpointing with **MongoDB** - resume agents across sessions
 - Memory architecture: short-term, long-term, episodic, and semantic memory
 - Implementing memory layers with **Mem0** and Vector DBs
 - Graph memory with **Neo4j** and Cypher queries
 
 ---
 
-### 🎙️ Part 7 — Conversational & Multi-Modal AI
+### 🎙️ Part 7 - Conversational & Multi-Modal AI
 > *Build agents that see, speak, and listen.*
 
 - Voice-based conversational agents with real-time interaction
@@ -104,7 +133,7 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 
 ---
 
-### 🔌 Part 8 — Model Context Protocol (MCP)
+### 🔌 Part 8 - Model Context Protocol (MCP)
 > *The open standard that connects AI to everything.*
 
 - What MCP is and why it's becoming the standard for AI integrations
@@ -135,19 +164,23 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-534AB7?style=flat-square&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-1D9E75?style=flat-square&logoColor=white)
 
-### Infrastructure
+### Infrastructure & Protocols
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-534AB7?style=flat-square&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis%20Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
+![STT/TTS](https://img.shields.io/badge/STT%20%2F%20TTS-EF9F27?style=flat-square&logoColor=white)
 
 ---
 
 ## 🏗️ 8 Real-World Projects
 
 | # | Project | Tech Stack |
-|---|---------|-----------|
+|---|---------|------------|
 | `01` | 🔤 **Tokenizer from Scratch** | Python, NLP fundamentals |
 | `02` | 🐳 **Local Ollama + FastAPI AI App** | Docker, Ollama, FastAPI |
 | `03` | 💻 **Python CLI Coding Assistant** | Agents, Claude API |
@@ -173,6 +206,8 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 | 💼 **IT Professionals** | Transition into AI engineering from any IT domain |
 | 🎓 **Students** | Build a job-ready portfolio with 8 real projects |
 | 🤷 **Complete Beginners** | Step-by-step path from Python basics to production AI |
+| 📈 **Data Scientists** | Go beyond notebooks - deploy AI agents and APIs |
+| 🧭 **Product Managers** | Understand AI deeply enough to build and ship products |
 
 ---
 
@@ -182,12 +217,12 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 
 | Feature | What It Means |
 |---------|--------------|
-| 🏛️ **System Design** | Queues, workers, and async pipelines — not just scripts |
+| 🏛️ **System Design** | Queues, workers, and async pipelines - not just scripts |
 | 📈 **Scaling** | Redis-backed RAG that handles real production load |
-| 🧠 **Memory** | Multiple memory architectures including graph-based (Neo4j) |
-| 🎙️ **Voice & Vision** | Multi-modal AI from day one — speech, images, and text |
-| 💻 **Local-First** | Run models on your own machine with Ollama — zero API cost |
-| 🔌 **Standards** | MCP — the open protocol connecting AI to every tool |
+| 🧠 **Memory** | Multiple memory architectures including graph-based with Neo4j |
+| 🎙️ **Voice & Vision** | Multi-modal AI from day one - speech, images, and text together |
+| 💻 **Local-First** | Run models on your own machine with Ollama - zero API cost |
+| 🔌 **Standards** | MCP - the open protocol connecting AI to every tool |
 
 > **You won't just understand AI. You'll be able to build it.**
 
@@ -198,7 +233,7 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 <div align="center">
 
 | 📅 Duration | 🏗️ Projects | 💻 Mode | 🎓 Level |
-|------------|------------|---------|---------|
+|------------|-------------|---------|---------|
 | **45 Days** | **8 Real Builds** | **100% Hands-On** | **All Levels** |
 
 </div>
@@ -224,6 +259,6 @@ By the end, you will build, deploy, and scale real-world AI applications using t
 
 **© 2026 Quantum Vector from TheDevOpsCommunity**
 
-*Built with ❤️ in Hyderabad*
+*Built with ❤️ in Hyderabad by engineers, for engineers*
 
 </div>
