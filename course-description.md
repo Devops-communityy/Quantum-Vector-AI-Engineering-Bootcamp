@@ -6,10 +6,6 @@
 
 ### From Zero → Production-Ready AI Engineer
 
-# 🤖 AI & LLM Engineering Bootcamp
-
-### From Zero → Production-Ready AI Engineer
-
 [![Quantum Vector](https://img.shields.io/badge/Quantum%20Vector-DevOps%20Community-534AB7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM1MzRBQjciLz48L3N2Zz4=)](https://quantumvector.sh)
 [![Course](https://img.shields.io/badge/Course-AI%20%26%20LLM%20Bootcamp-1D9E75?style=for-the-badge)](https://quantumvector.sh/courses/ai-llm-bootcamp)
 [![Duration](https://img.shields.io/badge/Duration-45%20Days-EF9F27?style=for-the-badge)](https://quantumvector.sh)
