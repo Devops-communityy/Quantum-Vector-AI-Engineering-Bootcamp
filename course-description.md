@@ -334,6 +334,25 @@ threats.
 
 ---
 
+## 💼 Career Outcomes & Salary Ranges (India, 2026)
+
+> Roles this bootcamp's curriculum maps directly to. Ranges are India market estimates (Bengaluru/Hyderabad-weighted) from 2026 salary data — actual offers depend on your current CTC, company tier, and portfolio. Product companies, GCCs, and funded startups typically pay 60-150% more than IT-services firms at the same experience level.
+
+| Role | 1-2 yrs | 2-5 yrs | 6-8 yrs | 8+ yrs |
+|---|---|---|---|---|
+| 🤖 **AI Engineer / GenAI Engineer** | ₹6-12 LPA | ₹12-25 LPA | ₹25-45 LPA | ₹45-80 LPA+ |
+| 🚀 **Forward Deployed Engineer (FDE)** | ₹18-28 LPA | ₹28-55 LPA | ₹55-75 LPA | ₹75-90 LPA+ |
+| 🧠 **AI/ML Engineer** | ₹8-14 LPA | ₹14-28 LPA | ₹28-50 LPA | ₹50-80 LPA+ |
+| 📄 **LLM / RAG Engineer** | ₹10-16 LPA | ₹16-32 LPA | ₹32-55 LPA | ₹55-85 LPA+ |
+| 🕸️ **AI Agent Developer** | ₹8-14 LPA | ₹14-28 LPA | ₹28-48 LPA | ₹48-75 LPA+ |
+| ☁️ **AI DevOps / Cloud AI Engineer** | ₹8-14 LPA | ₹14-26 LPA | ₹26-45 LPA | ₹45-65 LPA+ |
+| 🎯 **Prompt Engineer** | ₹6-10 LPA | ₹10-20 LPA | ₹20-35 LPA | ₹35-40 LPA+ |
+| 🏛️ **AI Solutions Architect** | - | ₹20-35 LPA | ₹35-60 LPA | ₹60-90 LPA+ |
+
+> 📌 **Forward Deployed Engineer (FDE)** is currently the fastest-growing and highest-paying role in this list, with India job listings up ~800% in 2025 — but only ~250-270 open roles nationally at any time. GenAI/LLM/RAG specialization (this bootcamp's core) commands a 20-40% premium over generalist AI/ML profiles.
+
+---
+
 ## 🔗 Links & Resources
 
 <div align="center">
