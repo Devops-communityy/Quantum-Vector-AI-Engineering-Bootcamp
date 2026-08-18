@@ -8,12 +8,22 @@
 
 [![Quantum Vector](https://img.shields.io/badge/Quantum%20Vector-DevOps%20Community-534AB7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM1MzRBQjciLz48L3N2Zz4=)](https://quantumvector.sh)
 [![Course](https://img.shields.io/badge/Course-AI%20%26%20LLM%20Bootcamp-1D9E75?style=for-the-badge)](https://quantumvector.sh/courses/ai-llm-bootcamp)
-[![Duration](https://img.shields.io/badge/Duration-45%20Days-EF9F27?style=for-the-badge)](https://quantumvector.sh)
-[![Projects](https://img.shields.io/badge/Projects-8%20Real%20Builds-D85A30?style=for-the-badge)](https://quantumvector.sh)
+[![Daily Live Class](https://img.shields.io/badge/Daily%20Live%20Class-1.5%20Hrs-EF9F27?style=for-the-badge)](https://quantumvector.sh)
+[![Total Hours](https://img.shields.io/badge/Total-75%20Hrs-D85A30?style=for-the-badge)](https://quantumvector.sh)
 
-> Learn Python, Git, Docker, Pydantic, LLMs, Agents, RAG, LangChain, LangGraph, Voice AI, and MCP - all in one place.
+> Learn Python, AWS, Docker, Kubernetes, Pydantic, LLMs, Agents, RAG, LangChain, LangGraph, Voice AI, MCP, LLM Evaluation, Observability, and Security - all in one place.
 
 [🌐 Course Page](https://quantumvector.sh/courses/ai-llm-bootcamp) • [📸 Instagram](https://www.instagram.com/devops__community/) • [📧 Contact](mailto:frontdesk@thedevopscommunity.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔴 50 Days of Live Classes · 1.5 Hrs Every Day · 75 Hrs Total
+
+**One focused live session a day. No marathon weekends. No backlog to catch up on.**
 
 </div>
 
@@ -52,7 +62,10 @@ every session.
 
 By the end, you will build, deploy, and scale real-world AI applications using
 the same techniques that power **ChatGPT**, **Gemini**, and **Claude** -
-from a blank terminal to production.
+from a blank terminal to production, including how to run them on **AWS**,
+containerize and orchestrate them with **Docker + Kubernetes**, evaluate them
+for quality, observe them in production, and secure them against real-world
+threats.
 
 ---
 
@@ -70,7 +83,22 @@ from a blank terminal to production.
 
 ---
 
-### 🧠 Part 2 - AI & LLM Fundamentals
+### ☁️ Part 2 - AWS for AI Engineers
+> *Learn to run and scale AI workloads on the cloud that powers production.*
+
+- **EC2** - provisioning compute for model serving and inference
+- **Bedrock** - accessing and orchestrating managed foundation models
+- **RDS** - managed databases for application and vector metadata storage
+- **IAM** - access control, roles, and least-privilege for AI services
+- **VPC** - secure networking for AI applications and services
+- **S3** - storage for datasets, embeddings, model artifacts, and logs
+- **EBS** - persistent block storage for compute instances
+- **ECR** - container registry for AI application images
+- **EKS** - running containerized AI workloads on managed Kubernetes
+
+---
+
+### 🧠 Part 3 - AI & LLM Fundamentals
 > *Understand how LLMs actually work under the hood.*
 
 - What are LLMs and how GPT predicts the next token
@@ -80,7 +108,7 @@ from a blank terminal to production.
 
 ---
 
-### 🎯 Part 3 - Prompt Engineering
+### 🎯 Part 4 - Prompt Engineering
 > *The craft of communicating with AI models.*
 
 - Core strategies: zero-shot, one-shot, few-shot, chain-of-thought, persona-based
@@ -90,7 +118,7 @@ from a blank terminal to production.
 
 ---
 
-### ⚡ Part 4 - Running & Using LLMs
+### ⚡ Part 5 - Running & Using LLMs
 > *Connect to cloud APIs and run models locally.*
 
 - OpenAI & Gemini API setup and integration with Python
@@ -100,7 +128,7 @@ from a blank terminal to production.
 
 ---
 
-### 🤖 Part 5 - Agents & RAG Systems
+### 🤖 Part 6 - Agents & RAG Systems
 > *Build AI that retrieves knowledge and takes action.*
 
 - Build your first AI Agent from scratch - the ReAct loop
@@ -112,7 +140,7 @@ from a blank terminal to production.
 
 ---
 
-### 🧩 Part 6 - LangGraph & Memory
+### 🧩 Part 7 - LangGraph & Memory
 > *Give your agents state, persistence, and long-term memory.*
 
 - LangGraph fundamentals: state, nodes, edges, and graph-based AI workflows
@@ -123,7 +151,7 @@ from a blank terminal to production.
 
 ---
 
-### 🎙️ Part 7 - Conversational & Multi-Modal AI
+### 🎙️ Part 8 - Conversational & Multi-Modal AI
 > *Build agents that see, speak, and listen.*
 
 - Voice-based conversational agents with real-time interaction
@@ -133,12 +161,60 @@ from a blank terminal to production.
 
 ---
 
-### 🔌 Part 8 - Model Context Protocol (MCP)
+### 🔌 Part 9 - Model Context Protocol (MCP)
 > *The open standard that connects AI to everything.*
 
 - What MCP is and why it's becoming the standard for AI integrations
 - MCP transports: STDIO and SSE
 - Build and deploy an MCP server with Python
+
+---
+
+### 📊 Part 10 - LLM Evaluation
+> *Prove your AI system actually works - and keeps working.*
+
+- Building evaluation datasets for LLM and RAG systems
+- Retrieval evaluation: precision, recall, and relevance scoring
+- Measuring hallucination, faithfulness, and answer relevance
+- Setting up regression testing so prompt/model changes don't silently break output
+
+---
+
+### 🔭 Part 11 - AI Observability
+> *You can't fix what you can't see - instrument your AI in production.*
+
+- Monitoring LLM apps with **New Relic** and **Grafana**
+- Distributed tracing across agent/RAG pipelines
+- Tracking latency, token usage, and cost per request
+- Error tracking and alerting for LLM-specific failure modes
+
+---
+
+### 🔐 Part 12 - LLM Security
+> *Ship AI that can't be tricked, leaked, or hijacked.*
+
+- Prompt injection: attack patterns and defenses
+- Preventing data leakage and PII exposure in prompts/responses
+- Secrets management for API keys and credentials in AI apps
+- Tool security and access control for agentic systems
+
+---
+
+### 🚀 Part 13 - CI/CD for AI
+> *Ship AI changes the same way you ship code - safely and repeatably.*
+
+- Building a pipeline: **Docker → GitHub → CI/CD → AWS**
+- Automated testing for models, prompts, and RAG pipelines
+- Deployment strategies for AI services
+
+---
+
+### 🐳 Part 14 - Docker + Kubernetes for AI
+> *Containerize and orchestrate AI workloads at scale.*
+
+- Building AI-ready containers and understanding GPU/container concepts
+- Kubernetes deployments and services for AI applications
+- Scaling AI workloads with Kubernetes (HPA, resource requests/limits)
 
 ---
 
@@ -151,6 +227,13 @@ from a blank terminal to production.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Cloud & Infra for AI
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-01A88D?style=flat-square&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### AI & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -175,9 +258,15 @@ from a blank terminal to production.
 ![Redis](https://img.shields.io/badge/Redis%20Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![STT/TTS](https://img.shields.io/badge/STT%20%2F%20TTS-EF9F27?style=flat-square&logoColor=white)
 
+### Evaluation, Observability & Security
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Security](https://img.shields.io/badge/LLM%20Security-D85A30?style=flat-square&logoColor=white)
+
 ---
 
-## 🏗️ 8 Real-World Projects
+## 🏗️ 9 Real-World Projects
 
 | # | Project | Tech Stack |
 |---|---------|------------|
@@ -189,6 +278,7 @@ from a blank terminal to production.
 | `06` | 🎙️ **AI Conversational Voice Agent** | STT, GPT, TTS, WebSockets |
 | `07` | 🕸️ **Graph Memory Agent** | Neo4j, LangGraph, Cypher |
 | `08` | 🔌 **MCP-Powered AI Server** | MCP SDK, Python, STDIO/SSE |
+| `09` | ☁️ **AI App Deployed on AWS EKS** | AWS EC2/EKS/ECR, Docker, Kubernetes, CI/CD |
 
 ---
 
@@ -204,7 +294,7 @@ from a blank terminal to production.
 | 🔀 **Full Stack Developers** | Build end-to-end AI applications from scratch |
 | 🧪 **QA / Test Engineers** | Use AI to automate and enhance testing workflows |
 | 💼 **IT Professionals** | Transition into AI engineering from any IT domain |
-| 🎓 **Students** | Build a job-ready portfolio with 8 real projects |
+| 🎓 **Students** | Build a job-ready portfolio with real projects |
 | 🤷 **Complete Beginners** | Step-by-step path from Python basics to production AI |
 | 📈 **Data Scientists** | Go beyond notebooks - deploy AI agents and APIs |
 | 🧭 **Product Managers** | Understand AI deeply enough to build and ship products |
@@ -217,14 +307,18 @@ from a blank terminal to production.
 
 | Feature | What It Means |
 |---------|--------------|
+| ☁️ **Cloud-Native** | Real AWS deployment - EC2, Bedrock, EKS, ECR - not localhost demos |
 | 🏛️ **System Design** | Queues, workers, and async pipelines - not just scripts |
-| 📈 **Scaling** | Redis-backed RAG that handles real production load |
+| 📈 **Scaling** | Redis-backed RAG and Kubernetes that handle real production load |
 | 🧠 **Memory** | Multiple memory architectures including graph-based with Neo4j |
 | 🎙️ **Voice & Vision** | Multi-modal AI from day one - speech, images, and text together |
 | 💻 **Local-First** | Run models on your own machine with Ollama - zero API cost |
 | 🔌 **Standards** | MCP - the open protocol connecting AI to every tool |
+| 📊 **Provable Quality** | LLM evaluation - hallucination, faithfulness, regression testing |
+| 🔭 **Production-Grade Ops** | Observability with New Relic/Grafana and CI/CD to AWS |
+| 🔐 **Secure by Design** | Prompt injection defense, PII protection, secrets, access control |
 
-> **You won't just understand AI. You'll be able to build it.**
+> **You won't just understand AI. You'll be able to build it, ship it, and run it safely in production.**
 
 ---
 
@@ -232,9 +326,9 @@ from a blank terminal to production.
 
 <div align="center">
 
-| 📅 Duration | 🏗️ Projects | 💻 Mode | 🎓 Level |
+| 🔴 Format | 🏗️ Projects | 💻 Mode | 🎓 Level |
 |------------|-------------|---------|---------|
-| **45 Days** | **8 Real Builds** | **100% Hands-On** | **All Levels** |
+| **Daily Live Class · 50 Days** | **9 Real Builds** | **100% Hands-On** | **All Levels** |
 
 </div>
 
